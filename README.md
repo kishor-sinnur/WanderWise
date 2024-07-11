@@ -2,6 +2,10 @@
 
 WanderWise is a web application for listing and reviewing various destinations. It is built using Node.js, Express, MongoDB, and EJS templating engine. The application supports user authentication, CRUD operations on listings and reviews, and session management with flash messages.
 
+## Live Site
+
+Check out the live site [here](https://wander-wise.onrender.com/listings).
+
 ## Features
 
 - **User Authentication**: User registration, login, and logout functionality using Passport.js.
@@ -31,6 +35,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/wanderwise.git
+
 wanderwise/
 │
 ├── models/
