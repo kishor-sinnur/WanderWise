@@ -36,29 +36,4 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/wanderwise.git
 
-wanderwise/
-│
-├── models/
-│   ├── listings.js         # Mongoose schema for listings
-│   ├── reviews.js          # Mongoose schema for reviews
-│   └── user.js             # Mongoose schema for users
-│
-├── routes/
-│   ├── listings.js         # Routes for listings
-│   ├── review.js           # Routes for reviews
-│   └── user.js             # Routes for user authentication
-│
-├── public/                 # Static files (CSS, images, etc.)
-│
-├── utils/
-│   └── ExpressError.js     # Utility for custom error handling
-│
-├── views/
-│   ├── listings/           # EJS templates for listings
-│   ├── partials/           # EJS partial templates
-│   └── users/              # EJS templates for user authentication
-│
-├── .env                    # Environment variables file (not in the repo)
-├── app.js                  # Main application file
-├── package.json            # Project metadata and dependencies
-└── README.md               # Project documentation
+
